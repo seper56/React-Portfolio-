@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+## Contents
+1. [About](#about)
+    1. [User Story](#user%20story)
+    2. [Acceptance criteria](#acceptance%20criteria)
+    3. [Visuals](#visuals)
+    4. [Build](#build)
+2. [Installation](#installation)
+3. [License](#license)
+4. [Contributing](#contributing)
+5. [Tests](#tests)
+6. [Authors and acknowledgment](#authors%20and%20acknowledgment)
+
+  My project is a portfolio website built with React that showcases my skills and experience as a web developer.
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [A deployed version can be viewed here.]()
+
+## Installation:
+  
+  To clone the repo:
+  
+      git clone git@github.com:seper56/React-Portfolio-.git
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +88,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## License
+  License used for this project - MIT
+  * For more information on license types, please reference this website
+  for additional licensing information - [https: //choosealicense.com/](https://choosealicense.com/).
+---
+
+## Authors and Acknowledgments
+  Semir Seper
+---
+## Contact Information:
+* GitHub Username: Seper56
+* GitHub Email: Seper56@gmail.com
+
