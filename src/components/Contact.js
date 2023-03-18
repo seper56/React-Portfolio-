@@ -72,8 +72,7 @@ export default function Contact() {
             Hire Me
           </h2>
           <p className="leading-relaxed mb-5">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Illum
-            suscipit officia aspernatur veritatis. Asperiores, aliquid?
+          I'm the web developer you need. With strong skills in JS, HTML/CSS, Node.js, Express.js, APIs, and React, I can create stunning and functional websites. I learn fast and work well with others, so let's get started!
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
