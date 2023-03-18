@@ -1,3 +1,4 @@
+import weaterdasboardimage from "./images/Work day.png"
 export const projects = [
   // projets
     {
@@ -5,7 +6,7 @@ export const projects = [
       subtitle: "Third party API's/jQuery",
       description:
         "a simple calendar application that allows a user to save events for each hour of the day",
-      image:"images/Work day.png",
+      image:weaterdasboardimage,
       link: "https://seper56.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/",
     },
     {
