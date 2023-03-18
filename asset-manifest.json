@@ -1,13 +1,18 @@
 {
   "files": {
     "main.css": "/React-Portfolio-/static/css/main.31d6cfe0.css",
-    "main.js": "/React-Portfolio-/static/js/main.c1c4e506.js",
-    "static/media/Work day.png": "/React-Portfolio-/static/media/Work day.bf66951416b48f508e1e.png",
+    "main.js": "/React-Portfolio-/static/js/main.2c0f1e79.js",
+    "static/media/comingsoon.jpg": "/React-Portfolio-/static/media/comingsoon.de2b6a0b2ce4746fd87a.jpg",
+    "static/media/Semir.png": "/React-Portfolio-/static/media/Semir.d7c1f0ed96aa0da399e9.png",
+    "static/media/Weather.png": "/React-Portfolio-/static/media/Weather.e66a0e88d5a0549c9ff5.png",
+    "static/media/Workday.png": "/React-Portfolio-/static/media/Workday.bf66951416b48f508e1e.png",
+    "static/media/Notetaker.png": "/React-Portfolio-/static/media/Notetaker.a28ec2b68240e1bd7776.png",
+    "static/media/jate.png": "/React-Portfolio-/static/media/jate.7fb9e3790fa7ab199c9b.png",
     "index.html": "/React-Portfolio-/index.html",
-    "main.c1c4e506.js.map": "/React-Portfolio-/static/js/main.c1c4e506.js.map"
+    "main.2c0f1e79.js.map": "/React-Portfolio-/static/js/main.2c0f1e79.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.c1c4e506.js"
+    "static/js/main.2c0f1e79.js"
   ]
 }
