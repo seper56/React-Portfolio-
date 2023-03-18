@@ -1,9 +1,8 @@
-import Workdayimage from "./images/Work day.png"
+import Workdayimage from "./images/Workday.png"
 import Weatherimage from"./images/Weather.png"
 import jateimage from "./images/jate.png"
-import NoteTakerimage from"./images/Note taker.png"
-import comingsoonimage from "./images/coming soon.jpg"
-import semirsimage from "./images/Semir's AV.png"
+import NoteTakerimage from"./images/Notetaker.png"
+import comingsoonimage from "./images/comingsoon.jpg"
 export const projects = [
   // projets
     {

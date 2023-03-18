@@ -1,4 +1,5 @@
 import React from "react";
+import HeaderImage from '../images/Semir.png'
 
 export default function About() {
   return (
@@ -30,7 +31,7 @@ export default function About() {
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src= "./Semir's AV.png"
+            src={HeaderImage}
           />
         </div>
       </div>
