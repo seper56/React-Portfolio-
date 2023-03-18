@@ -12,9 +12,8 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+          I gotta say, my skills with JavaScript, HTML/CSS, Node.js, Express.js, APIs, and React are pretty impressive. I can build some super cool stuff with these technologies. I know how to make dynamic and interactive web applications that look great and work even better. I can design visually appealing web pages with HTML/CSS, and use Node.js and Express.js to create scalable server-side applications. My API skills are on point, which lets me integrate third-party services into my projects with ease. And don't even get me started on React—it's my go-to for building high-performance user interfaces that are both intuitive and responsive.
+
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

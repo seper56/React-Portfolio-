@@ -1,36 +1,36 @@
 export const projects = [
   // projets
     {
-      title: "React Reserve",
-      subtitle: "MERN Stack",
+      title: "Work Day Scheduler",
+      subtitle: "Third party API's/jQuery",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-1.gif",
-      link: "https://reactbootcamp.com",
+        "a simple calendar application that allows a user to save events for each hour of the day",
+      image:"images/Work day.png",
+      link: "https://seper56.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/",
     },
     {
-      title: "React Tracks",
-      subtitle: "React and Python",
+      title: "Weather App",
+      subtitle: "Server-Side APIs",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-2.gif",
-      link: "https://reactbootcamp.com",
+        "weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.",
+      image: "images/weather.png",
+      link: "https://seper56.github.io/Server-Side-APIs-Challenge-Weather-Dashboard/",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Jate",
+      subtitle: "Progressive Web Applications",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-3.gif",
-      link: "https://reactbootcamp.com",
+        "The app will be a single-page application that meets the PWA criteria. Additionally, it will feature a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application will also function offline",
+      image: "images/jate.png",
+      link: "https://github.com/seper56/Progressive-Web-Applications-PWA-Challenge-Text-Editor",
     },
     {
-      title: "Epic Todo App",
-      subtitle: "React Hooks",
+      title: "Note Taker",
+      subtitle: "Express.js",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-      image: "./project-4.gif",
-      link: "https://reactbootcamp.com",
+        "This application will use an Express.js back end and will save and retrieve note data from a JSON file",
+      image: "images/Note taker.PNG",
+      link: "https://github.com/seper56/Express.js-Challenge-Note-Taker",
     },
   ];
   
@@ -38,26 +38,26 @@ export const projects = [
     {
       id: 1,
       quote:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-      image: "",
-      name: "",
-      company: "",
+        "",
+      image: "images/coming soon.jpg",
+      name: "Your Company",
+      company: "Coming soon",
     },
     {
       id: 2,
       quote:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-      image: "",
-      name: "",
-      company: "",
+        "",
+      image: "images/coming soon.jpg",
+      name: "Your Company",
+      company: "Coming soon",
     },
   ];
   
   export const skills = [
     "JavaScript",
     "React",
-    "Next.js",
-    "Node",
-    "GraphQL",
-    "Material UI",
+    "Html/Css",
+    "Node.js",
+    "API's",
+    "Express.js",
   ];
