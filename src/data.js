@@ -3,6 +3,7 @@ import Weatherimage from"./images/Weather.png"
 import jateimage from "./images/jate.png"
 import NoteTakerimage from"./images/Notetaker.png"
 import comingsoonimage from "./images/comingsoon.jpg"
+import Earthimage from "./images/Earth.png"
 export const projects = [
   // projets
     {
@@ -37,6 +38,15 @@ export const projects = [
       image:NoteTakerimage,
       link: "https://github.com/seper56/Express.js-Challenge-Note-Taker",
     },
+    { 
+      title: "Earthify",
+      subtitle: "MERN Stack Single-Page Application",
+      description:
+        "MongoDB can be used to store data about the environment. Express.js can be used to create a server that will handle requests from the client. React.js can be used to create a user interface for the calculator. Node.js can be used to run the server.",
+      image:Earthimage,
+      link: "https://the-manhattan-project.herokuapp.com/",
+    },
+
   ];
   
   export const testimonials = [
